@@ -26,7 +26,7 @@ Provided by Udacity in the directory "data/obj_pose-laser-radar-synthetic-input.
 Values provided by the c++ program to the simulator
 
 ## Results:
-You can take a look of the captured results in the provided [youtube link] (https://www.youtube.com/watch?v=aFA_t2wNvYs)
+You can take a look of the captured results in the provided youtube link: https://www.youtube.com/watch?v=aFA_t2wNvYs
 * RMSE (obj_pose-laser-radar-synthetic-input.txt)
 * Position:
   * X = 0.0974
