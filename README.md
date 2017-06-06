@@ -22,13 +22,13 @@ INPUT: provided by Udacity in the directory "data/obj_pose-laser-radar-synthetic
 
 
 OUTPUT: values provided by the c++ program to the simulator
-RMSE (obj_pose-laser-radar-synthetic-input.txt)
-Position:
-  X = 0.0974
-  Y = 0.0855
-Velocity:
-  X = 0.4517
-  Y = 0.4404
+* RMSE (obj_pose-laser-radar-synthetic-input.txt)
+* Position:
+  * X = 0.0974
+  * Y = 0.0855
+* Velocity:
+  * X = 0.4517
+  * Y = 0.4404
 
 ---
 
