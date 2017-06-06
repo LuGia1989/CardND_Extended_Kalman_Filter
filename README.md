@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 
 In this project utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project reburic. 
@@ -16,12 +16,14 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 5. ./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt
 
 
-INPUT: provided by Udacity in the directory "data/obj_pose-laser-radar-synthetic-input.txt" to check the RMSE error of a moving object for position px, py, and velocity vx, vy.
+## INPUT: 
+Provided by Udacity in the directory "data/obj_pose-laser-radar-synthetic-input.txt" to check the RMSE error of a moving object for position px, py, and velocity vx, vy.
 
 ["sensor_measurement"] => the measurment that the simulator observed (either lidar or radar)
 
 
-OUTPUT: values provided by the c++ program to the simulator
+## OUTPUT: 
+Values provided by the c++ program to the simulator
 * RMSE (obj_pose-laser-radar-synthetic-input.txt)
 * Position:
   * X = 0.0974
