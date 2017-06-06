@@ -16,13 +16,13 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 5. ./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt
 
 
-## INPUT: 
+## Input: 
 Provided by Udacity in the directory "data/obj_pose-laser-radar-synthetic-input.txt" to check the RMSE error of a moving object for position px, py, and velocity vx, vy.
 
 ["sensor_measurement"] => the measurment that the simulator observed (either lidar or radar)
 
 
-## OUTPUT: 
+## Output: 
 Values provided by the c++ program to the simulator
 * RMSE (obj_pose-laser-radar-synthetic-input.txt)
 * Position:
